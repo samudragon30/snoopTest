@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Promociones.DTO\Promociones.DTO.csproj" />
+    <ProjectReference Include="..\Promociones.Entidades\Promociones.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

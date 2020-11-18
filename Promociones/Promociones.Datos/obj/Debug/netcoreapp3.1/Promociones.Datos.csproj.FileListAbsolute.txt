@@ -1,0 +1,14 @@
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\bin\Debug\netcoreapp3.1\Promociones.Datos.deps.json
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\bin\Debug\netcoreapp3.1\Promociones.Datos.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\bin\Debug\netcoreapp3.1\Promociones.Datos.pdb
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\obj\Debug\netcoreapp3.1\Promociones.Datos.csprojAssemblyReference.cache
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\obj\Debug\netcoreapp3.1\Promociones.Datos.AssemblyInfoInputs.cache
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\obj\Debug\netcoreapp3.1\Promociones.Datos.AssemblyInfo.cs
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\obj\Debug\netcoreapp3.1\Promociones.Datos.csproj.CoreCompileInputs.cache
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\obj\Debug\netcoreapp3.1\Promociones.Datos.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\obj\Debug\netcoreapp3.1\Promociones.Datos.pdb
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\bin\Debug\netcoreapp3.1\Promociones.DTO.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\bin\Debug\netcoreapp3.1\Promociones.Entidades.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\bin\Debug\netcoreapp3.1\Promociones.DTO.pdb
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\bin\Debug\netcoreapp3.1\Promociones.Entidades.pdb
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Datos\obj\Debug\netcoreapp3.1\Promociones.Datos.csproj.CopyComplete

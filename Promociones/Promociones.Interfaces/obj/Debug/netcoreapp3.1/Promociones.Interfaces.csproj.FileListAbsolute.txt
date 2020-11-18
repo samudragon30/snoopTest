@@ -1,0 +1,14 @@
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\obj\Debug\netcoreapp3.1\Promociones.Interfaces.csprojAssemblyReference.cache
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\obj\Debug\netcoreapp3.1\Promociones.Interfaces.AssemblyInfoInputs.cache
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\obj\Debug\netcoreapp3.1\Promociones.Interfaces.AssemblyInfo.cs
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\obj\Debug\netcoreapp3.1\Promociones.Interfaces.csproj.CoreCompileInputs.cache
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\bin\Debug\netcoreapp3.1\Promociones.Interfaces.deps.json
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\bin\Debug\netcoreapp3.1\Promociones.Interfaces.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\bin\Debug\netcoreapp3.1\Promociones.Interfaces.pdb
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\bin\Debug\netcoreapp3.1\Promociones.DTO.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\bin\Debug\netcoreapp3.1\Promociones.Entidades.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\bin\Debug\netcoreapp3.1\Promociones.DTO.pdb
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\bin\Debug\netcoreapp3.1\Promociones.Entidades.pdb
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\obj\Debug\netcoreapp3.1\Promociones.Interfaces.csproj.CopyComplete
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\obj\Debug\netcoreapp3.1\Promociones.Interfaces.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.Interfaces\obj\Debug\netcoreapp3.1\Promociones.Interfaces.pdb

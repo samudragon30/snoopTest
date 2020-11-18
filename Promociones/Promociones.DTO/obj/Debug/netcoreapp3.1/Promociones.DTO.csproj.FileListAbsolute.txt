@@ -1,0 +1,9 @@
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.DTO\bin\Debug\netcoreapp3.1\Promociones.DTO.deps.json
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.DTO\bin\Debug\netcoreapp3.1\Promociones.DTO.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.DTO\bin\Debug\netcoreapp3.1\Promociones.DTO.pdb
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.DTO\obj\Debug\netcoreapp3.1\Promociones.DTO.csprojAssemblyReference.cache
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.DTO\obj\Debug\netcoreapp3.1\Promociones.DTO.AssemblyInfoInputs.cache
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.DTO\obj\Debug\netcoreapp3.1\Promociones.DTO.AssemblyInfo.cs
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.DTO\obj\Debug\netcoreapp3.1\Promociones.DTO.csproj.CoreCompileInputs.cache
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.DTO\obj\Debug\netcoreapp3.1\Promociones.DTO.dll
+\\192.168.0.5\Users\SamuDragon\Fravega\Code\Promociones\Promociones.DTO\obj\Debug\netcoreapp3.1\Promociones.DTO.pdb
