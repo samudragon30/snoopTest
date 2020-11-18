@@ -1,0 +1,71 @@
+Get
+https://localhost:5001/api/Promocion/34e1d7cc-c5a0-4fc9-9845-5ca7b42143b0
+
+Get
+https://localhost:5001/api/Promocion/
+
+
+Post
+https://localhost:5001/api/Promocion/
+
+{
+ "MediosDePago": [],
+ "Bancos": [],
+ "CategoriasProductos": [],
+ "MaximaCantidadDeCuotas": 12,
+ "ValorInteresCuotas": 0,
+ "PorcentajeDeDescuento": null,
+ "FechaInicio": "2019-01-06T17:00:00",
+ "FechaFin": "2030-01-06T17:00:00"
+}
+
+
+Put
+https://localhost:5001/api/Promocion/
+
+{
+ "id": "34e1d7cc-c5a0-4fc9-9845-5ca7b42143b0",
+ "MediosDePago": [],
+ "Bancos": ["ICBC"],
+ "CategoriasProductos": [],
+ "MaximaCantidadDeCuotas": 12,
+ "ValorInteresCuotas": 0,
+ "PorcentajeDeDescuento": null,
+ "FechaInicio": "2019-01-06T17:00:00",
+ "FechaFin": "2030-01-06T17:00:00"
+}
+
+
+
+
+Vigencia
+Get
+https://localhost:5001/api/PromocionVigencia/
+
+
+Get(fecha)
+https://localhost:5001/api/PromocionVigencia/2019-01-06T20:00:00
+
+
+Post
+https://localhost:5001/api/PromocionVigencia/
+{
+	"MedioDePago": "TARJETA_CREDITO",
+	"Banco": "ICBC",
+	"categoriasProductos": [
+		"Celulares",
+		"Audio"
+	]
+}
+
+
+
+Put
+https://localhost:5001/api/PromocionVigencia/
+{
+	"id": "9cf49664-66c8-4514-8307-c1817575ca36",
+	"fechaInicio": "2019-01-06T20:00:00Z",
+	"fechaFin": "2030-01-06T20:00:00Z"
+}
+
+
